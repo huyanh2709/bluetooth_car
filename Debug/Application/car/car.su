@@ -1,0 +1,2 @@
+../Application/car/car.c:13:6:car_init	32	static
+../Application/car/car.c:23:6:car_control	16	static
